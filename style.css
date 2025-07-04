@@ -1,0 +1,26 @@
+h2 {
+    color: aqua;
+}
+tr> th{
+    color: blue;
+}
+
+tr>td{
+    color: blueviolet;
+}
+tr>td{
+    color: brown;
+}
+h2>p{
+    color: aquamarine;
+}
+h1{
+    color: chartreuse;
+}
+p{
+    color: chocolate;
+}
+
+body{
+    background-color:cornflowerblue;
+}
